@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Trung Khuyến</h1>
 <h3 align="center">ヾ(≧▽≦*)o</h3>
-<img aligh="right" alt="Coding" width="400" scr"https://i.pinimg.com/originals/e4/ff/bf/e4ffbf19d2400470f491407816ce40b1.gif">
+(img aligh="right" alt="Coding" width="400" scr"https://i.pinimg.com/originals/e4/ff/bf/e4ffbf19d2400470f491407816ce40b1.gif")
 
 - 📫 How to reach me **khuyenb1910534@student.ctu.edu.vn**
 
