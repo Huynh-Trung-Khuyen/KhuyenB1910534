@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **khuyenb1910534@student.ctu.edu.vn**
 
-- ⚡ Fun fact **I like Pokemon ,,ԾㅂԾ,,**
+- ⚡ Fun fact **I like everything about you 🫵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
