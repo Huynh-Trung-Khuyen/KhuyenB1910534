@@ -22,8 +22,7 @@
 <p align="left">
 <h3 align="left">My favorite Anime/Manga:</h3>
 <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131940-24nmI5uwWoIx.jpg" alt="" height="300" width="230" /></a>
-<a href="" target="blank"><img align="center" src="https://scontent.fsgn5-11.fna.fbcdn.net/v/t1.15752-9/318187938_687049926261962_6488848421552261663_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rYR43wbxCckAX_9gJTS&tn=u3_8Q0ov_yZzsqXO&_nc_ht=scontent.fsgn5-11.fna&oh=03_AdTVeJ6YyQnjUh9t5Z-0c0seiceufn26yKNKOEnmWL2lKw&oe=63D8D5F2" alt="" height="300" width="750" /></a>
-</p>
+
 
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://scontent.fsgn5-6.fna.fbcdn.net/v/t1.15752-9/320457528_696570695338737_5277626767799839801_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=LHacB1gNKp8AX9DHDi2&_nc_ht=scontent.fsgn5-6.fna&oh=03_AdSOweCaJm6BDB0zm1wk6B58iCUlFIf44N1a5aCq-AWcRA&oe=63D8EB3E" alt="" height="300" width="230" /></a>
