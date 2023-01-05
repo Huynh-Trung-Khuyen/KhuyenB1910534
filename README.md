@@ -23,7 +23,7 @@
 <h3 align="left">My favorite Anime/Manga:</h3>
 <table>
   <tr>
-    <td align="center" nowrap="nowrap"></i>Name</td><td align="center" nowrap="nowrap">Description</td>
+    <td width="300" align="center" nowrap="nowrap"></i>Name</td><td align="center" nowrap="nowrap">Description</td>
   </tr>
   <tr>
     <td >Vivy: Fluorite Eye’s Song</td>
@@ -33,7 +33,7 @@
 <img width="900" height="1" alt=""></td>
   </tr>
   <tr> 
-    <td width="300" >
+    <td  >
     <b>Storyline: </b> <br>
 An AI named Matsumoto appears before Vivy, the world’s first autonomous humanoid AI. Matsumoto’s mission is to rewrite history together with Vivy, in order to stop the war between AI and humans that will happen one century later.
 <br> 
