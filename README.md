@@ -33,7 +33,7 @@
 <img width="900" height="1" alt=""></td>
   </tr>
   <tr> 
-    <td width="600" >
+    <td nowrap="nowrap" width="600" >
     <b>Storyline: </b> <br>
 An AI named Matsumoto appears before Vivy, the world’s first autonomous humanoid AI. Matsumoto’s mission is to rewrite history together with Vivy, in order to stop the war between AI and humans that will happen one century later.
 <br><br> 
