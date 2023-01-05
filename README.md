@@ -23,20 +23,40 @@
 <h3 align="left">My favorite Anime/Manga:</h3>
 <table>
   <tr>
-    <td width="420" align="center" nowrap="nowrap" ></i>Name</td><td align="center" nowrap="nowrap" >Description</td>
+    <td width="420" align="center" nowrap="nowrap" ></i>Anime/Manga</td><td align="center" nowrap="nowrap" >Images</td>
   </tr>
+<!--   Batdautuday -->
   <tr>
+    <td >One Piece</td>
+    <td  rowspan="2" nowrap="nowrap"><p>
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-oT7YguhEK1TE.jpg" alt="" height="300" width="200" /></a>
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128291-O2AEatR4HU2d.png" alt="" height="300" width="200" /></a>
+  </tr>
+  <tr> 
+    <td  >
+    <b>Storyline: </b> <br>
+As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer "Red-Haired" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary "One Piece," said to be the greatest treasure in the world...
+<br><br>
+<b>Main Characters: </b> 
+<li><i>Luffy</i></li>
+<br>
+<b>Genres: </b> 
+<li><i>Action</i></li>
+<li><i>Adventure</i></li>
+<li><i>Comedy</i></li>
+</tr>
+<!-- Batdautuday -->
+<tr>
     <td >Vivy: Fluorite Eye’s Song</td>
     <td  rowspan="2" nowrap="nowrap"><p>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131940-24nmI5uwWoIx.jpg" alt="" height="300" width="200" /></a>
-      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131940-24nmI5uwWoIx.jpg" alt="" height="300" width="200" /></a>
-<!-- <img width="900" height="1" alt=""></td> -->
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130431-ScKbR2FZKlLE.jpg" alt="" height="300" width="200" /></a>
   </tr>
   <tr> 
     <td  >
     <b>Storyline: </b> <br>
 An AI named Matsumoto appears before Vivy, the world’s first autonomous humanoid AI. Matsumoto’s mission is to rewrite history together with Vivy, in order to stop the war between AI and humans that will happen one century later.
-<br> 
+<br><br>
 <b>Main Characters: </b> 
 <li><i>Vivy</i></li>
 <li><i>Matsumoto</i></li>
