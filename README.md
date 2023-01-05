@@ -29,7 +29,7 @@
     <td >Vivy: Fluorite Eye’s Song</td>
     <td  rowspan="2" nowrap="nowrap"><p>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131940-24nmI5uwWoIx.jpg" alt="" height="300" width="200" /></a>
-      
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131940-24nmI5uwWoIx.jpg" alt="" height="300" width="200" /></a>
 <!-- <img width="900" height="1" alt=""></td> -->
   </tr>
   <tr> 
