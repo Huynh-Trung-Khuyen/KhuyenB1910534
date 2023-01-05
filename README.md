@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td nowrap="nowrap"><h4><code>plugin_anilist</code></h4></td>
-    <td  rowspan="2"><p>
+    <td nowrap="nowrap" rowspan="2"><p>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131940-24nmI5uwWoIx.jpg" alt="" height="300" width="200" /></a>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131940-24nmI5uwWoIx.jpg" alt="" height="300" width="200" /></a>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131940-24nmI5uwWoIx.jpg" alt="" height="300" width="200" /></a>
