@@ -23,14 +23,14 @@
 <h3 align="left">My favorite Anime/Manga:</h3>
 <table>
   <tr>
-    <td width="300" align="center" ></i>Name</td><td align="center" >Description</td>
+    <td width="300" align="center" nowrap="nowrap" ></i>Name</td><td align="center" nowrap="nowrap" >Description</td>
   </tr>
   <tr>
     <td >Vivy: Fluorite Eye’s Song</td>
-    <td  rowspan="2"><p>
+    <td  rowspan="2" nowrap="nowrap"><p>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131940-24nmI5uwWoIx.jpg" alt="" height="300" width="200" /></a>
       
-<img width="900" height="1" alt=""></td>
+<!-- <img width="900" height="1" alt=""></td> -->
   </tr>
   <tr> 
     <td  >
