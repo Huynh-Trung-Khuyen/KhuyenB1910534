@@ -68,11 +68,9 @@ An AI named Matsumoto appears before Vivy, the world’s first autonomous humano
 <!-- Batdautuday -->
 <tr>
     <td >Bocchi The Rock!</td>
-    <td nowrap="nowrap" rowspan="2" nowrap="nowrap"><p>
+    <td rowspan="2" nowrap="nowrap"><p>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111258-8T0fZUQtKo82.jpg" alt="" height="300" width="200" /></a>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156192-KW3nGIeFQEJT.jpg" alt="" height="300" width="200" /></a>
-      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111258-8T0fZUQtKo82.jpg" alt="" height="300" width="200" /></a>
-      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111258-8T0fZUQtKo82.jpg" alt="" height="300" width="200" /></a>
   </tr>
   <tr> 
     <td  >
@@ -103,9 +101,8 @@ Gabimaru the Hollow is one of the most vicious assassins ever to come out of the
 <br><br>
 <b>Main Characters: </b> 
 <li><i>Gabimaru</i></li>
-<li><i></i></li>
 <br>
 <b>Genres: </b> 
-<li><i>Comedy</i></li>
-<li><i>Slice of Life</i></li>
+<li><i>Action</i></li>
+<li><i>Sci-Fi</i></li>
 </tr>
