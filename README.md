@@ -68,9 +68,11 @@ An AI named Matsumoto appears before Vivy, the world’s first autonomous humano
 <!-- Batdautuday -->
 <tr>
     <td >Bocchi The Rock!</td>
-    <td  rowspan="2" nowrap="nowrap"><p>
+    <td nowrap="nowrap" rowspan="2" nowrap="nowrap"><p>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111258-8T0fZUQtKo82.jpg" alt="" height="300" width="200" /></a>
       <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156192-KW3nGIeFQEJT.jpg" alt="" height="300" width="200" /></a>
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111258-8T0fZUQtKo82.jpg" alt="" height="300" width="200" /></a>
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111258-8T0fZUQtKo82.jpg" alt="" height="300" width="200" /></a>
   </tr>
   <tr> 
     <td  >
@@ -78,7 +80,29 @@ An AI named Matsumoto appears before Vivy, the world’s first autonomous humano
 Gotou Hitori is a high school girl who started learning to play the guitar because she dreams of being in a band, but she's so shy that she hasn't made a single friend. However, her dream might come true after she meets Ijichi Nijika, a girl who plays the drums and is looking for a new guitarist for her band.
 <br><br>
 <b>Main Characters: </b> 
-<li><i></i></li>
+<li><i>Hitori Gouto</i></li>
+<li><i>Nijika Ijichi</i></li>
+<li><i>Ryou Yamada</i></li>
+<li><i>Ikuyo Kita</i></li>
+<br>
+<b>Genres: </b> 
+<li><i>Comedy</i></li>
+<li><i>Slice of Life</i></li>
+</tr>
+<!-- Batdautuday -->
+<tr>
+    <td >Hell’s Paradise: Jigokuraku</td>
+    <td  rowspan="2" nowrap="nowrap"><p>
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx100994-f6CMjiQQNVeS.png" alt="" height="300" width="200" /></a>
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109433-TBxwTrC1cQT5.jpg" alt="" height="300" width="200" /></a>
+  </tr>
+  <tr> 
+    <td  >
+    <b>Storyline: </b> <br>
+Gabimaru the Hollow is one of the most vicious assassins ever to come out of the ninja village of Iwagakure. He’s ruthlessly efficient, but a betrayal results in him being handed a death sentence. He has only one hope—in order to earn his freedom, he must travel to a long-hidden island and recover an elixir that will make the shogun immortal. Failure is not an option. On this island, heaven and hell are just a hair’s breadth away.
+<br><br>
+<b>Main Characters: </b> 
+<li><i>Gabimaru</i></li>
 <li><i></i></li>
 <br>
 <b>Genres: </b> 
