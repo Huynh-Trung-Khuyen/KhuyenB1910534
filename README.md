@@ -23,7 +23,7 @@
 <h3 align="left">My favorite Anime/Manga:</h3>
 <table>
   <tr>
-    <td align="center" nowrap="nowrap"></i></td><td align="center" nowrap="nowrap">Description</td>
+    <td align="center" nowrap="nowrap"></i>Name</td><td align="center" nowrap="nowrap">Description</td>
   </tr>
   <tr>
     <td >Vivy: Fluorite Eye’s Song</td>
