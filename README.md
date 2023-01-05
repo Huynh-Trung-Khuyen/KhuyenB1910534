@@ -65,4 +65,23 @@ An AI named Matsumoto appears before Vivy, the world’s first autonomous humano
 <li><i>Drama</i></li>
 <li><i>Sci-Fi</i></li>
 </tr>
-  
+<!-- Batdautuday -->
+<tr>
+    <td >Bocchi The Rock!</td>
+    <td  rowspan="2" nowrap="nowrap"><p>
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111258-8T0fZUQtKo82.jpg" alt="" height="300" width="200" /></a>
+      <a href="" target="blank"><img align="center" src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156192-KW3nGIeFQEJT.jpg" alt="" height="300" width="200" /></a>
+  </tr>
+  <tr> 
+    <td  >
+    <b>Storyline: </b> <br>
+Gotou Hitori is a high school girl who started learning to play the guitar because she dreams of being in a band, but she's so shy that she hasn't made a single friend. However, her dream might come true after she meets Ijichi Nijika, a girl who plays the drums and is looking for a new guitarist for her band.
+<br><br>
+<b>Main Characters: </b> 
+<li><i></i></li>
+<li><i></i></li>
+<br>
+<b>Genres: </b> 
+<li><i>Comedy</i></li>
+<li><i>Slice of Life</i></li>
+</tr>
